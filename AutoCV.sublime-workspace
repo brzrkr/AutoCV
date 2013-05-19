@@ -1,0 +1,860 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"proces",
+				"processVipRequests"
+			],
+			[
+				"process",
+				"processCrewInvites"
+			],
+			[
+				"collect",
+				"collectDailyBonus"
+			],
+			[
+				"assem",
+				"assembleDataTree"
+			],
+			[
+				"add",
+				"addTopLevelItems"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"Print",
+				"PrintWelcome"
+			],
+			[
+				"plant",
+				"plant_crops"
+			],
+			[
+				"ref",
+				"HTTP_REFERER"
+			],
+			[
+				"bacl",
+				"background-color:   (property)"
+			],
+			[
+				"Copper",
+				"\"Copperplate Gothic Light\""
+			],
+			[
+				"add_ma",
+				"add_map_location"
+			],
+			[
+				"play",
+				"playButton"
+			],
+			[
+				"playB",
+				"playButtonDown"
+			],
+			[
+				"intro",
+				"introEnd"
+			],
+			[
+				"screen",
+				"screenWidth"
+			],
+			[
+				"info",
+				"info_box"
+			],
+			[
+				"CIw",
+				"CIwRandRange"
+			],
+			[
+				"Add",
+				"AddEntity"
+			],
+			[
+				"wp",
+				"wp_enqueue_script"
+			],
+			[
+				"init",
+				"initialize_map"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "AutoCV.sublime-project",
+			"settings":
+			{
+				"buffer_size": 171,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 234,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "[SideBarGit@SublimeText AutoCV/] git log --pretty=short --decorate --graph --no-color -- .\n\n# Improve this command, the output or the tab title by posting here:\n# http://www.sublimetext.com/forum/viewtopic.php?f=5&t=3405\n# Tip: F5 will run the command again and refresh the contents of this tab\n\n* commit f57e7d66f002ab8c890aeec4f62c1e1154de215a (HEAD, master)\n| Author: Nic Dienstbier <nic@dnstbr.me>\n| \n|     Initial Commit\n|  \n* commit fc4b12530611987dae6a133771f6e0740b2e21ba\n  Author: Nic Dienstbier <nic@dnstbr.me>\n  \n      Initital Commit",
+			"settings":
+			{
+				"buffer_size": 545,
+				"line_ending": "Unix",
+				"name": "Log: AutoCV",
+				"scratch": true
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 203,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/Moai.sublime-build",
+	"command_palette":
+	{
+		"height": 137.0,
+		"selected_items":
+		[
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pacak",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"edit",
+				"Shopify: Edit asset"
+			],
+			[
+				"run",
+				"Build: Run"
+			],
+			[
+				"build",
+				"Build: Run QEMU"
+			],
+			[
+				"debug",
+				"Build: Debug"
+			],
+			[
+				"buil",
+				"Build: Debug"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dnstbr/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/dnstbr/Desktop/AutoCV/plugins/dailybonus.py",
+		"/Users/dnstbr/Desktop/AutoCV/plugins/_neighbors.py",
+		"/Users/dnstbr/Desktop/AutoCV/plugins/buildings.py",
+		"/Users/dnstbr/Desktop/AutoCV/plugins/_lightlevelup.py",
+		"/Users/dnstbr/Desktop/AutoCV/plugins/_crops.py",
+		"/Users/dnstbr/Desktop/AutoCV/CVWeb.py",
+		"/Users/dnstbr/Desktop/AutoCV/CVPage.py",
+		"/Users/dnstbr/Projects/Clients/eBlasts/Office Bar & Grill/111212/TheOffice_eblast_11_12_12.html",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/D1DB8ACC-95B0-4EEE-B652-631FAEDC4216/index.html",
+		"/Users/dnstbr/Projects/Clients/eBlasts/Office Bar & Grill/111212/email.html",
+		"/Users/dnstbr/Desktop/AutoCV/CVBot.py",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/D1DB8ACC-95B0-4EEE-B652-631FAEDC4216/$query = new WP_Query(array('meta_key' => '_thumbn",
+		"/Users/dnstbr/Desktop/AutoCV/data/crops.txt",
+		"/Users/dnstbr/Desktop/AutoCV/plugins/lightlevelup.py",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/CCBEEA3C-E971-4064-B3E1-C8814136E479/functions.php",
+		"/Users/dnstbr/Desktop/AutoCV/plugins/neighbors.py",
+		"/Users/dnstbr/Desktop/AutoCV/plugins/events.py",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/F2F15998-A088-4923-B79D-6B6BAE244D9E/front-page.php",
+		"/Users/dnstbr/Desktop/AutoCV/main.py",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/CityReq/cityreq_class.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/CityReq/description.txt",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/CityReq/Hooks.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Map/Map_class.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Map/Hooks.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Multi/Hooks.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Wall/Hooks.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Wall/Main.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Wall/Wall_class.php",
+		"/Users/dnstbr/Desktop/ImagineContact.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/933F8CA6-FB34-42A8-BE7A-E93C7BF83F28/ImagineContact.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/04499D19-1D22-410E-8467-FC78DF80E762/sidebar.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/BDF31C77-A8E0-4278-9E4F-7863930421E6/functions.php",
+		"/Users/dnstbr/Projects/Clients/eBlasts/Office Bar & Grill/11512/TheOffice_eblast_11_5_12.html",
+		"/Users/dnstbr/Projects/Clients/eBlasts/Office Bar & Grill/11512/email.html",
+		"/Users/dnstbr/Projects/Clients/eBlasts/Avalon/11512/Avalon-11512.html",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/codebase-php/BotClass.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Neighbors/Neighbors_class.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Neighbors/Hooks.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Neighbors/Main.php",
+		"/Users/dnstbr/Projects/Clients/eBlasts/Avalon/11512/email.html",
+		"/Users/dnstbr/Desktop/AutoCV/data/gameSettings.xml",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/0E72952D-87CC-4095-B55F-B08BA23DD986/footer.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Profiles/20116264056__Zy.xml",
+		"/Users/dnstbr/Desktop/AutoCV/data/cookies.bin",
+		"/Users/dnstbr/Projects/Experiments/AutoCV/PHP/autocv.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Inbox/Buildings_class.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Inbox/Hooks.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Settings/Main.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Settings/SM_class.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/GameInfo/GameInfo_class.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Dashboard/Main.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Dashboard/Dashboard_class.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/wikia/Class/wikia.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/codebase-php/Utils.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/codebase-php/LocalDataClass.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/codebase-php/bot_api.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/codebase-php/1LocalDataClass.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/codebase-php/GetSettingsFromXml.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Parser.php",
+		"/Users/dnstbr/Desktop/AutoCV/plugins/crops.py",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/sendTo/Hooks.php",
+		"/Users/dnstbr/Desktop/AutoCV/plugins/inventory.py",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/wikia/Main.php",
+		"/Users/dnstbr/Desktop/AutoCV/plugins/untitled",
+		"/Volumes/FORTRESS/Information/bills.txt",
+		"/Users/dnstbr/Documents/raul.txt",
+		"/Users/dnstbr/Library/Developer/Xcode/DerivedData/AutoCV-engpjiudijehjvgdyajxvlfedwuw/Build/Products/Debug/data/objects.txt",
+		"/Users/dnstbr/Desktop/AutoCV/mainui.py",
+		"/Users/dnstbr/Projects/Experiments/pyinstaller/main/main.spec",
+		"/Users/dnstbr/Desktop/AutoCV/data/effectsConfig.xml",
+		"/Users/dnstbr/Projects/Experiments/AutoCV/AutoCV/cvAppDelegate.m",
+		"/Users/dnstbr/Desktop/AutoCV/main.ui",
+		"/Users/dnstbr/Desktop/AutoCV/mainform.py",
+		"/Users/dnstbr/Projects/Clients/eBlasts/Holiday Wine & Liquor/11112/email.html",
+		"/Users/dnstbr/Projects/Clients/eBlasts/Holiday Wine & Liquor/11112/Holiday-eBlast-11-1-12.html",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/5F87B66B-A3CF-4C14-921F-629C683211D1/header.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/B064E1EE-8151-4BCE-A30A-F48BA4025A67/blogpage.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/3EB690B8-90BD-46A3-8E0F-16E31840CB7E/functions.js",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/14D38DA7-B35C-470B-9CCE-1377CCE92569/style.css",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/0C4A6794-3F62-43AD-919A-27FB204E7383/sidebar.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/29DDD484-4331-4562-AE56-F3687C5DFFFD/single.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/B821AFE5-19E1-412C-A2D9-29170CE52F2F/functions.js",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/38EC8C28-2212-4B25-9DA3-7DE26F052E89/functions.js",
+		"/Users/dnstbr/Desktop/AutoCV/AutoCV.sublime-project",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/75B427BC-F211-4E14-B230-702DD23B0DAA/search.php",
+		"/Users/dnstbr/Desktop/AutoCV/cvweb.py",
+		"/Users/dnstbr/Desktop/AutoCV/cvpage.py",
+		"/Users/dnstbr/Desktop/AutoCV/cvbot.py",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/3421C529-2457-4685-B13A-ED1D2497699E/header.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/CAAD911B-F95E-44F1-BF96-1D8F9018CDB9/searchform.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/D74B1F80-721C-43B8-9AA4-B16FEF8A544F/loop.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/099009F4-5DF0-4A6C-A0B4-79638A6F13EB/search.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/34EF144E-800D-43F5-8EF1-AFE287B269E3/single.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/7DC5D317-B0B1-44AB-9680-4B4462D1B73A/lists.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/2DD9B031-53CD-4483-B92B-420CD5CBEE5D/page.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/7EAFC252-A88B-471F-A3C3-D971FA7EB5F8/products.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/ED816B55-D174-4165-A439-0F97BDCA8F38/homepage.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/804D0FE1-012A-485E-8733-9CDB2BC0276D/contact.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/C2A37060-7181-445E-8C46-A97104342ECE/style.css",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/C6E9E9BB-AF9F-44BB-BBD7-7CC12228EA38/header.php",
+		"/Users/dnstbr/.bashrc",
+		"/Users/dnstbr/Library/Logs/DiagnosticReports/Python_2012-10-31-164835_dnstbr.crash",
+		"/Users/dnstbr/Desktop/cvpage.py",
+		"/Users/dnstbr/Desktop/cvbot.py",
+		"/Users/dnstbr/Desktop/cvweb.py",
+		"/Users/dnstbr/Desktop/cv.py",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/2F3ABD50-B656-47D7-881D-9420CA4BA281/functions.js",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/0E41006F-5482-4361-8F8A-2D4628B2F508/style.css",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/102E1876-1837-4171-B821-A39D5C59B8AD/vgi-home.php",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/43A4D7E2-9B96-442E-8A92-74D090FF60A9/style.css",
+		"/Users/dnstbr/Projects/Clients/eBlasts/Republic of the Rio Grande/103012/email.html",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/0AE2EE1C-7D9C-4418-B239-1B736608227C/functions.js",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/FA3AF0D1-8A08-4D18-95C3-618DCD2BED31/style.css",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/2295DC06-682B-4646-9F44-FCBE3CAF4FD7/style.css",
+		"/Users/dnstbr/Library/Caches/Cleanup At Startup/Transmit/7D32D4BA-FBDA-4AE9-B6B9-ECE0E94C1AEC/style.css",
+		"/Users/dnstbr/Projects/Clients/eBlasts/Republic of the Rio Grande/103012/Republic---103012.html",
+		"/usr/local/Library/Formula/gobject-introspection.rb",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Neighbors/untitled.html",
+		"/Users/dnstbr/Library/Developer/Xcode/DerivedData/AutoCV-engpjiudijehjvgdyajxvlfedwuw/Build/Products/Debug/data/gameSettings.xml",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Buildings/Hooks.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Buildings/Buildings_class.php",
+		"/Users/dnstbr/Projects/Experiments/CityVilleBot/Plugins/Crops/Hooks.php",
+		"/Users/dnstbr/Library/Developer/Xcode/DerivedData/AutoCV-engpjiudijehjvgdyajxvlfedwuw/Build/Products/Debug/AutoCV.app/Contents/Resources/Actions.php",
+		"/Users/dnstbr/Library/Developer/Xcode/DerivedData/AutoCV-engpjiudijehjvgdyajxvlfedwuw/Build/Products/Debug/AutoCV.app/Contents/Resources/autocv.php",
+		"/Users/dnstbr/Library/Developer/Xcode/DerivedData/AutoCV-engpjiudijehjvgdyajxvlfedwuw/Build/Products/Debug/AutoCV.app/Contents/Resources/untitled.html",
+		"/Users/dnstbr/Library/Developer/Xcode/DerivedData/AutoCV-engpjiudijehjvgdyajxvlfedwuw/Build/Products/Debug/AutoCV.app/Contents/Resources/AMFBaseDeserializer.php",
+		"/Users/dnstbr/Library/Developer/Xcode/DerivedData/AutoCV-engpjiudijehjvgdyajxvlfedwuw/Build/Products/Debug/AutoCV.app/Contents/Resources/AMFBASESERIALIZER.PHP"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"></a></td>",
+			"images/",
+			"plugins",
+			"./data",
+			"data",
+			"mcallen",
+			"images/",
+			"\"></a></td>",
+			"start",
+			"cv.log",
+			"timer",
+			"facebook",
+			"fb",
+			"'",
+			"fb",
+			"facebook",
+			"sess",
+			"session",
+			"\"></a></td>",
+			"images/",
+			"NLoad",
+			"NLo",
+			"load",
+			"order_visitor",
+			"$this->order_visitor_help = $bod->_value['data'][0]['data']['userInfo']['player']['Orders']['order_visitor_help']['received']['pending'];",
+			"order_visitor_help",
+			"NLoadWorld",
+			"visit",
+			"image",
+			"verbose",
+			"zy",
+			"asset",
+			"requests",
+			"asset_",
+			"count",
+			"process",
+			"plot_watermelon",
+			"plot_contract",
+			"item",
+			"processVisits",
+			"visitors",
+			"processVisitors",
+			"header",
+			"stretch",
+			"goods",
+			"self.error",
+			";",
+			"GetVersioned",
+			"objects1",
+			"objects",
+			"objects2",
+			"objects1",
+			"str",
+			"$this->user",
+			"$this->Msg",
+			"enco",
+			"cookieJar",
+			"size_policy()",
+			"treeTab",
+			"self.centralwidget",
+			"horizontal_layoutWidget",
+			"groupBox",
+			"webView",
+			"centralWidget",
+			"mainWindow",
+			"horizontalLayout",
+			"verticalLayout",
+			"sizePolicy",
+			"textBrowser",
+			"logTab",
+			"tabWidget",
+			"treeWidget",
+			"startButton",
+			"stopButton",
+			"user_agent",
+			"self.print(",
+			"gatewayUrl",
+			"self.Print",
+			"parentItem",
+			"curItem",
+			"self.flashRevision",
+			"assetUrl",
+			"AssetUrl",
+			"setIn",
+			"started",
+			"AutoCV",
+			"page",
+			"webView",
+			"\"></a></td>",
+			"images/",
+			"QString",
+			"cv",
+			"#header p",
+			"searchform",
+			"cv",
+			"'.",
+			");",
+			".Msg",
+			"$this->",
+			"result",
+			"$data",
+			"$this->",
+			"str",
+			"\"",
+			"cv.",
+			"an",
+			"flash.php",
+			"MakeMessage",
+			"initUser",
+			"top-but",
+			"top-buttons",
+			"buttons",
+			"top",
+			"Gtk",
+			"\"></a></td>",
+			"images/",
+			"franchise",
+			"objects",
+			"WigWam",
+			"site",
+			"lot",
+			"LotSite",
+			"neighbors",
+			"franchises",
+			"franchies",
+			"worldName",
+			"neighbors",
+			"[neighbors]"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\" style=\"border: 0; display: block; line-height: 0;\"></a></td>",
+			"http://rgveblasts.com/eblast-images/office/111212/",
+			"austin",
+			"http://rgveblasts.com/eblast-images/avalon/11512/",
+			"\" style=\"border: 0; display: block; line-height: 0;\"></a></td>",
+			"http://rgveblasts.com/eblast-images/office/11512/",
+			"",
+			"objects",
+			"cv.user",
+			"cv.log",
+			"sizePolicy()",
+			"tree_tab",
+			"self.central_widget",
+			"horizontal_layout_widget",
+			"group_box",
+			"web_view",
+			"central_widget",
+			"main_window",
+			"horizontal_layout",
+			"vertical_layout",
+			"size_policy",
+			"text_browser",
+			"log_tab",
+			"tab_widget",
+			"tree_widget",
+			"start_button",
+			"stop_button",
+			"self.log(",
+			"gateway_url",
+			"self.print",
+			"parent_item",
+			"cur_item",
+			"self.flash_revision",
+			"asset_url",
+			"main",
+			"\" style=\"border:0;display:block;line-height:0;\"></a></td>",
+			"http://newsletter.holidaywineandliquor.com/liq/",
+			"'+",
+			")",
+			"",
+			".Print",
+			"self.",
+			"data",
+			"self.",
+			"'",
+			"\" style=\"border:0;display:block;line-height:0;\"></a></td>",
+			"http://rgveblasts.com/eblast-images/republic/103012/",
+			"$msg",
+			"$data",
+			"$option",
+			"http://newsletter.holidaywineandliquor.com/liq/",
+			"\" style=\"border:0;display:block;line-height:0;\"></a></td>",
+			"http://rgveblasts.com/eblast-images/republic/102412/",
+			"Name",
+			"name",
+			"Monogram",
+			"monogram",
+			"monogram-field",
+			"http://rgveblasts.com/eblast-images/avalon/102212/",
+			"\" style=\"border:0;display:block;line-height:0;\"></a>",
+			"http://rgveblasts.com/eblast-images/avalon/101012/",
+			"http://rgveblasts.com/eblast-images/republic/100912/",
+			"\" style=\"border:0;display:block;line-height:0;\"></a>",
+			"http://rgveblasts.com/eblast-images/carwash/100512/",
+			"}}\" border=\"0\" width=\"160\"",
+			"{{ '\\1' | asset_url }}",
+			"fancybox",
+			"{{ '\\1' | asset_url }}",
+			"}}\"",
+			"",
+			"{{ 'player_mp3_mini.swf' | asset_url }}",
+			"value=\"mp3={{ '\\1.mp3' | asset_url | escape }}\">",
+			"NicDienstbier",
+			"hornprod",
+			"http://www.facebook.com/RemingtonsMcAllen",
+			"\" style=\"border:0;display:block;line-height:0;\"></a>",
+			"http://rgveblasts.com/eblast-images/remington/100212/",
+			"http://rgveblasts.com/eblast-images/avalon/100212/",
+			"\" style=\"border:0; display:block; line-height:0;\"></a>",
+			"http://rgveblasts.com/eblast-images/office/100112/",
+			"infobar",
+			"footer",
+			"http://newsletter.holidaywineandliquor.com/liq/",
+			"\" style=\"border:0;display:block;line-height:0;\"></a></td>",
+			"\" style=\"border:0;display:block;line-height:0;\"></a>",
+			"http://rgveblasts.com/eblast-images/avalon/91912/",
+			"\" style=\"display:block;line-height:0;border:0;\"></a>",
+			"http://rgveblasts.com/eblast-images/avalon/91912/",
+			"><?php echo is_spanish() ? 'Cómo llegar' : 'Get Directions' ?>",
+			"umbrella",
+			"",
+			"\"http://www.santafemcallen.com/\"",
+			"http://www.santafemcallen.com/",
+			"http://rgveblasts.com/eblast-images/santafe/91712/",
+			"\" style=\"display:block;font-size:0;border:0;\"></a>",
+			"http://rgveblasts.com/eblast-images/office/91712/",
+			"",
+			"<a class=\"thickbox\" rel=\"set_3\" href=\"",
+			"</a></div><div style=\"clear:both;\"></div>",
+			"></a></div>",
+			"<div style=\"float:right;width:140px;margin-left:10px;\"><a href",
+			"playButton",
+			"editScene",
+			"gameScene",
+			"leaderboardScene",
+			"menuScene",
+			"optionsScene",
+			"moranboots.com",
+			"http://rgveblasts.com/eblast-images/carwash/9712/",
+			"http://newsletter.holidaywineandliquor.com/liq/",
+			"http://rgveblasts.com/eblast-images/avalon/9412/",
+			"\"",
+			"",
+			"http://",
+			"http://rgveblasts.com/eblast-images/office/9412/",
+			"assets/",
+			"",
+			"laser_fix",
+			"laser",
+			"box_world",
+			"info_box",
+			"screen_height",
+			"screen_width",
+			"screen_height",
+			"screen_width",
+			"DNSTBR",
+			"Squircle",
+			"energy"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "AutoCV.sublime-project",
+					"settings":
+					{
+						"buffer_size": 171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								545,
+								545
+							]
+						],
+						"settings":
+						{
+							"SideBarGitBackground": false,
+							"SideBarGitCommand":
+							[
+								"git",
+								"log",
+								"--pretty=short",
+								"--decorate",
+								"--graph",
+								"--no-color",
+								"--",
+								"."
+							],
+							"SideBarGitIsASideBarGitTab": true,
+							"SideBarGitItem": "/Users/dnstbr/Dropbox/Projects/Experiments/AutoCV",
+							"SideBarGitModal": false,
+							"SideBarGitNoResults": "No log to show",
+							"SideBarGitSyntaxFile": false,
+							"SideBarGitTitle": "Log: AutoCV",
+							"SideBarGitToStatusBar": false,
+							"default_dir": "/Users/dnstbr/Dropbox/Projects/Experiments",
+							"encoding": "UTF-8",
+							"fallback_encoding": "UTF-8",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"function",
+				"wp-content/themes/garmor/assets/js/functions.js"
+			],
+			[
+				"style",
+				"wp-content/themes/garmor/style.css"
+			],
+			[
+				"functions",
+				"wp-content/themes/garmor/assets/js/functions.js"
+			],
+			[
+				"funct",
+				"wp-content/themes/garmor/assets/js/functions.js"
+			],
+			[
+				"functio",
+				"wp-content/themes/garmor/assets/js/functions.js"
+			],
+			[
+				"functions.js",
+				"wp-content/themes/garmor/assets/js/functions.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/dnstbr/Projects/Clients/Temple Emanuel/temple.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 283.0,
+	"status_bar_visible": true
+}
